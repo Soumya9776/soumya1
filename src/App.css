@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-color: yellowgreen;
+}
+
+.address-block{
+  text-align: left;
+  margin-left: 60px;
+  
+}
+.form{
+  line-height:0px;
+}
+.bbsr{
+  line-height: 0px;
+}
+  
+.to-block{
+  font-weight: bold;
+  margin-left:1px;
+  line-height:10px;
+}
+.sub{
+text-align:left;
+margin-left:60px;
+font-weight:bold;
+line-height: 30px;
+
+
+}
+.sir-block{
+  font-weight:bold;
+}
+.msg-block{
+  text-align:left;
+  margin-left: 90px;
+  color:blue;
+}
+.end-block{
+  text-align: left;
+  margin-left:350px
+
+
+}
+
